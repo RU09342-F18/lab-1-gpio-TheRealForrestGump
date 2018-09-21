@@ -1,4 +1,4 @@
-# Off Board Blink
+# Kyle McKeown Off Board Blink
 For the Offboard_Blink circuitry I used the Same Circuit that was used for the multiple blink part of the lab.
 
 # To build the circuitry the parts that I used are as follows:
